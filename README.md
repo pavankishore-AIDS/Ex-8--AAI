@@ -1,8 +1,3 @@
- <H3>Pavan kishore.M</H3>
-<H3>212221230076</H3>
-<H3>EX. NO.8</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
 <h3>Algorithm:</h3>
@@ -14,10 +9,10 @@ Step 5: Define a variable to specify the duration (in seconds) for which the pro
 Step 6: Display a message in the console to prompt the user to speak.<Br>
 Step 7: Capture audio from the default microphone<Br>
 Step 9: Use the default microphone as the audio source.<Br>
-Step 10: Record audio for the specified duration using the Recognizer instance.<Br> <H3>Senthil Kumar S</H3>
-<H3>212221230091</H3>
+Step 10: Record audio for the specified duration using the Recognizer instance.<Br> <H3>Pavan kishore.M</H3>
+<H3>212221230076</H3>
 <H3>EX. NO.8</H3>
-<H3>DATE:27/04/2024</H3>
+<H3>DATE:5/05/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
