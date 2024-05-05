@@ -45,16 +45,4 @@ except Exception as e:
 <H3> Result:</H3>
 Thus the python program to implement the conversion of live speech recognition is completed
 
-Step 11: Perform speech recognition with exceptional handling:<Br>
-•	Attempt to recognize speech from the captured audio using the Google Speech Recognition service.<Br>
-•	If successful, print the recognized text.<Br>
-•	Handle specific exceptions: If the recognition result is unknown or if there is an issue with the request to the Google Speech Recognition service, print corresponding error messages.<Br>
-•	A generic exception block captures any other unexpected errors.<Br>
-<H3>Program:</H3>
 
-Insert your code her
-
-<H3> Output:</H3>
-Show the results here
-
-<H3> Result:</H3>
